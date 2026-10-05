@@ -362,7 +362,7 @@ h2 span {
     position: absolute;
     width: 38px;
     height: 38px;
-    border-color: var(--blue);
+    border-color: #fff;
     z-index: 2
 }
 
@@ -375,7 +375,7 @@ h2 span {
 
 .tech-corner.br {
     right: -15px;
-    bottom: 30px;
+    bottom: -15px;
     border-right: 2px solid;
     border-bottom: 2px solid
 }
