@@ -509,8 +509,8 @@ h2 span {
 .photo-frame {
     width: 280px;
     height: 340px;
-    padding: 8px;
-    background: linear-gradient(145deg, #18233b, #070b12);
+    padding: 12px;
+    background: border-box;
     border: 1px solid #30416a;
     box-shadow: 0 30px 100px rgba(0, 0, 0, .55);
     position: relative;
@@ -520,6 +520,7 @@ h2 span {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position:center;
     display: block;
 }
 
