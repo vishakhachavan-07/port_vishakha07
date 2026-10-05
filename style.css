@@ -339,29 +339,6 @@ h2 span {
     margin-right: 6px;
     box-shadow: 0 0 10px #315cff
 }
-
-.tech-corner {
-    position: absolute;
-    width: 38px;
-    height: 38px;
-    border-color: #fff;
-    z-index: 2
-}
-
-.tech-corner.tl {
-    left: -15px;
-    top: -15px;
-    border-left: 2px solid;
-    border-top: 2px solid
-}
-
-.tech-corner.br {
-    right: -15px;
-    bottom: -15px;
-    border-right: 2px solid;
-    border-bottom: 2px solid
-}
-
 .code-lines {
     padding: 20px 10px 5px;
     display: grid;
